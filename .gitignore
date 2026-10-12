@@ -1,5 +1,4 @@
 .venv/
 data/
-papers/
 notebooks/.ipynb_checkpoints/
 __pycache__/
